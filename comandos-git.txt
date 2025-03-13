@@ -1,0 +1,6 @@
+git clone: copia um repositório da nuvem para a máquina local
+git status: verifica se há alterações não versionadas
+git add: inclui as alterações feitas na versão do projeto
+git commit: gera uma nova versão com comentários
+git push: envia o commit pra nuvem
+git pull: atualiza na máquina local as alterações em nuvem
